@@ -12,8 +12,9 @@
 	  <Description>A lightweight parser for resolving date-related keywords in file names.</Description>
 	  <PackageTags>date parsing; localization; FTP integration</PackageTags>
 	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
-	  <RepositoryUrl>https://github.com/khabir-salah/date-parsing</RepositoryUrl>
+	  <RepositoryUrl>https://github.com/khabir-salah/birthday</RepositoryUrl>
 	  <OutputPath>bin\Release</OutputPath>
+	  <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
 
