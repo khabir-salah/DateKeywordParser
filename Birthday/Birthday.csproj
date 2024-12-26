@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+	  
+	  <PackageId>DateKeywordParser</PackageId>
+	  <Version>1.0.0</Version>
+	  <Authors>Salahudeen Abdulkabir</Authors>
+	  <Description>A lightweight parser for resolving date-related keywords in file names.</Description>
+	  <PackageTags>date parsing; localization; FTP integration</PackageTags>
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+	  <RepositoryUrl>https://github.com/khabir-salah/date-parsing</RepositoryUrl>
+	  <OutputPath>bin\Release</OutputPath>
+  </PropertyGroup>
+
+
+</Project>
